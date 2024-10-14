@@ -42,7 +42,7 @@ random
 
 1 Clone this repository:
          
-          -->git clone https://github.com/yourusername/voice_activated_google_assistant_project.git
+          -->git clone https://github.com/Ankush-paul1/voice_activated_google_assistant_project.git
             
             cd voice_activated_google_assistant_project
 
